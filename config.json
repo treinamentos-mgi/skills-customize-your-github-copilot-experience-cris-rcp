@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persisting FastAPI Data with SQLite",
+      "description": "Persist FastAPI CRUD data in a local SQLite database using Python's built-in sqlite3 library",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
